@@ -1,5 +1,5 @@
-name: telemed_app
-description: "A video medical consultation app."
+name: flutter_provider_template
+description: "A template for a flutter project with provider managed with Riverpod."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
